@@ -1,0 +1,38 @@
+html --> Hyper text markup language 
+              - hyper text ---> Link to other web pages
+              - markup language --> to make the text look good
+
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (Jan , 1997) -- failure
+html 4 --> (Dec , 1997) -- 4.2 version --> 2000
+html 5 --> 2014 -- 5.2 --> 2017
+
+who is founder of html?
+-Tim Berners-Lee 
+
+introduced --> 1993 --> first website --> https://info.cern.ch 
+
+html extension?
+.html / .htm  
+
+
+what is the use of html?
+- To create a static structured of website or webpages. 
+
+
+where html is run?
+- browser / client side
+
+
+html structre ?
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
